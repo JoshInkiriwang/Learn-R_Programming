@@ -1,7 +1,5 @@
-# myPortofolio
+### Welcome to Joshua Verbiano Inkiriwang' GitHub
 
-# Welcome to my GitHub
+In this site, I divide my portofolio into many branches.
+For Recent Upload, I have upload about Blockchain that made on Javascript
 
-## In this site, i categories the subject into many branches
-
-### For Recent Upload, I have upload about Blockchain that made on Javascript
