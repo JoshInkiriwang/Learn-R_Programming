@@ -1,7 +1,9 @@
-### Welcome to Joshua Verbiano Inkiriwang' GitHub
+### Selamat Datang di Repository Saya
 
-Repository ini berisi portofolio yang berisikan berbagai macam karya dari R Programming sampai Blockhain with Node.js
+Pada repository ini, berisikan semua file maupun portofolio data yang diimplementasikan menggunakan bahasa pemrograman R
 
---------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
-This repository contains a portfolio of works from R Programming to Blockhain with Node.js
+### Welcome to My Repository
+
+In this repository, it contains all files and portfolios of data implemented using the R programming language
